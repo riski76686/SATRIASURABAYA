@@ -1,9 +1,9 @@
 <div align="center">
 
-  <!-- Logo Pemkot / Lambang Surabaya -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Coat_of_arms_of_Surabaya.svg" alt="Logo Kota Surabaya" width="110" />
+  <!-- Logo Kota Surabaya (Format PNG) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/City_of_Surabaya_Logo.svg/500px-City_of_Surabaya_Logo.svg.png" alt="Logo Kota Surabaya" width="120" />
 
-  <p style="margin-top: 10px; margin-bottom: 0px; font-weight: bold; letter-spacing: 1px; color: #555;">
+  <p style="margin-top: 12px; margin-bottom: 0px; font-weight: bold; letter-spacing: 1px; color: #555;">
     DINAS PENDIDIKAN KOTA SURABAYA
   </p>
 
